@@ -50,7 +50,6 @@ p {
  /*border : 2px solid black; */
   padding: 20px;
   background-color: white;
-  
 }
 
 .quotes {
@@ -72,10 +71,20 @@ p {
 }
 
 .about-p {
-  font-style: italic;
+
   padding-left: 10px;
 }
 
 p {
   text-align: justify;
+}
+
+
+/** Projects Page styling **/
+.projects-div {
+  margin: 20px 40px;
+}
+
+.projects-ul > li {
+ list-style: none;
 }
